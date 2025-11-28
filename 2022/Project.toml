@@ -1,0 +1,14 @@
+name = "AoC2022"
+uuid = "58067728-fa94-4eb4-916e-1a76787cc6b6"
+version = "0.1.0"
+authors = ["Alan Liddell <alan.c.liddell@gmail.com>"]
+
+[deps]
+AoC = "3763443b-930a-4b79-8bbe-32305fa599be"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[sources]
+AoC = {path = ".."}
+
+[compat]
+julia = "1.6"

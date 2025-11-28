@@ -1,0 +1,11 @@
+name = "AoC2025"
+uuid = "3355140e-699f-458b-9073-339afa12e666"
+authors = ["Alan Liddell <alan.c.liddell@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+AoC = "3763443b-930a-4b79-8bbe-32305fa599be"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.6"
